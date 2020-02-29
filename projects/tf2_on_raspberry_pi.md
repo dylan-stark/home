@@ -24,3 +24,5 @@ Digest: sha256:37709ed9fcb2e57132710d521b5a6f826bc022e9f137750cc19728a1533f08e1
 Status: Downloaded newer image for tensorflow/tensorflow:latest-py3-jupyter
 docker.io/tensorflow/tensorflow:latest-py3-jupyter
 ```
+
+**Oh, welp!** I swiftly ran into [this issue](https://github.com/edgedb/edgedb-docker/issues/2) because I didn't think through that the official image would be *not* be compiled for ARM.
