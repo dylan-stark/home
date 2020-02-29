@@ -5,6 +5,10 @@ The goal is a simple setup for learning TensorFlow 2 and some related libraries.
 
 All of this was done over VNC from my 10.5" iPad Pro.
 
+**Note:** This project's on hold until I have time to sort out the ARM build.
+I'll likely pick this up with [this work](https://github.com/lhelontra/tensorflow-on-arm/tree/master/build_tensorflow) but don't have the time just now.
+
+
 ## Docker setup
 
 Docker installation was straightforward following the first bit of [these notes](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/).
